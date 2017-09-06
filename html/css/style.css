@@ -1,0 +1,61 @@
+
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+h1 {
+    font-size: 72px;
+    font-weight: normal;
+    color:#2766B6;
+    background-color: #C7C2C2;
+    display: inline;
+}
+h2 {
+    font-variant: small-caps;
+}
+a {
+    font-weight: bold;
+    color: red;
+    display: block;
+}
+p {
+    background-color: #7f7f7f;
+    color:#FFFFFF
+}
+h1,h2,h3 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#morgan {
+    height: 100vw;
+    width: 100vw;
+}
+.red {
+    background-color:red;
+}
+.green {
+    background-color:green;
+}
+.blue {
+    background-color: blue;
+}
+p.blue a {
+    color: yellow;
+}
+p.red a, p green a {
+    color:white;
+}
+li.seen.bad {
+    color: silver;
+}
+li.unseen {
+    color: #e55454;
+}
+li.seen.good {
+    color: green;
+}
+#biography a    {
+    text-decoration: none;
+}
+#biography a:hover    {
+    text-decoration: underline;
+}
+/* coment */
